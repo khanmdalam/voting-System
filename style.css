@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://cdn1.vectorstock.com/i/1000x1000/86/35/vote-political-elections-background-vector-7908635.jpg');
+    background-size: cover;
+  }
+  
+  header {
+    background: rgba(0, 123, 255, 0.9);
+    color: #fff;
+    height: 100%;
+  }
+  .text-center{
+    color: red;
+  }
+  footer {
+    background: rgba(52, 58, 64, 0.9);
+    margin-top: 500px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    height: 600%;
+    width: 100%;
+    margin-top: 30px;
+    background: rgba(255, 255, 255, 0.9);
+  }
+  
+  .modal-content {
+    background-color: #f8f9fa;
+  }
+  
+  
